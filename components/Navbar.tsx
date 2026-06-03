@@ -55,7 +55,7 @@ export default function Navbar() {
             className="flex-shrink-0 relative z-10"
           >
             <Image
-              src="/logo.webp"
+              src="/logo-white.webp"
               alt="Sudak Maroc"
               width={140}
               height={44}
