@@ -26,7 +26,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Brand */}
           <div className="lg:col-span-2">
-            <Image src="/logo.webp" alt="Sudak Maroc" width={140} height={44} className="h-10 w-auto object-contain mb-5" />
+            <Image src="/logo-white.webp" alt="Sudak Maroc" width={140} height={44} className="h-10 w-auto object-contain mb-5" />
             <p className="font-outfit text-cream-muted text-sm leading-relaxed max-w-sm mb-6">
               Votre partenaire en chimie de construction depuis 2008. Colles à carrelage et adjuvants pour mortier et béton fabriqués à Agadir, conformément aux normes internationales.
             </p>
